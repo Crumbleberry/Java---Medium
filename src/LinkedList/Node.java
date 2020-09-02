@@ -10,4 +10,8 @@ public class Node {
 		this.data = data;
 	}
 	
+	public Node() {
+		this.data = null;
+	}
+	
 }
